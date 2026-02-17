@@ -43,7 +43,7 @@ This project simulates an autonomous robot navigating a maize farm in Gazebo usi
 
 ## Running the Simulation
 
-
+# THIS OUTPUT is TIME-LAPES VIDEO 
 https://github.com/user-attachments/assets/72a1f5df-8b22-47cf-85af-9bfcaedc886f
 
 
