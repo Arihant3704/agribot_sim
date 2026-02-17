@@ -23,7 +23,12 @@ This project simulates an autonomous robot navigating a maize farm in Gazebo usi
 
 ## Installation
 
-1.  **Clone/Copy the workspace**: Ensure `farm_sim`, `virtual_maize_field`, and `car_simulation` packages are in `src/`.
+1.  **Clone the workspace**:
+    ```bash
+    git clone https://github.com/Arihant3704/agribot_sim.git
+    cd agribot_sim
+    git submodule update --init --recursive
+    ```
 2.  **Install Dependencies**:
     ```bash
     rosdep install --from-paths src --ignore-src -r -y
