@@ -43,6 +43,10 @@ This project simulates an autonomous robot navigating a maize farm in Gazebo usi
 
 ## Running the Simulation
 
+
+https://github.com/user-attachments/assets/72a1f5df-8b22-47cf-85af-9bfcaedc886f
+
+
 1.  **Launch the Simulation**:
     ```bash
     source install/setup.bash
